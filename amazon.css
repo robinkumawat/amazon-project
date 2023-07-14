@@ -1,0 +1,420 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* mainhader */
+.mainhader
+{
+    height: 65px;
+    width: 100%;
+    background-color: #131921;
+    padding: 5px 0px ;
+    display: flex;
+    padding: 10px 10px;
+}
+.zonimage img{
+    width: 150px;
+    height: 43px;
+}
+.zonimage img:hover
+{
+    height: 50px;
+    border: 2px solid white;
+}
+.zonimagea img{
+    width: 150px;
+    height: 50px;
+    margin-right: 20px;
+
+}
+.zonimagea img:hover
+{
+    height: 50px;
+    border: 2px solid white;
+}
+.address span
+{
+    color: rgb(90, 89, 89);
+}
+.all
+{
+    height: 40px;
+    width: 40px;
+    border: 2px solid grey;
+    border-radius: 10px 0px 0px 10px;
+    background-color: aliceblue;
+}
+.searchtext input
+{
+    width: 635px;
+    height: 40px;
+}
+.searchoption span i
+{
+    height: 40px;
+    width: 50px;
+    background-color: orange;
+    border-radius: 0px 10px 10px 0px;
+    font-size: 25px;
+    padding: 10px;
+}
+.searchbar
+{
+    display: flex;
+    margin-top: 5px;
+}
+.searchbar select
+{
+    height: 40px;
+    width: 50px;
+}
+/* .mainhader
+{
+display: flex;
+} */
+
+.language img
+{
+    max-width: 45px;
+    padding: 15px 5px;
+    
+}
+ .language p
+{
+    color: #fff;
+    margin-top: 20px;
+    text-decoration: none;
+}
+.language
+{
+    display: flex;
+    margin-left: 12px;
+
+}
+.lang select
+{   margin-top: 17px;
+    height: 20px;
+    width: 20px;
+}
+.language:hover
+{
+    border: 1px solid white;
+}
+/* .lang select option
+{
+    display: none;
+}
+.lang select option:hover option
+{
+    display: block !important;
+} */
+.account p
+{
+    color: #fff;
+    font-size: 13px;
+}
+.account h4{
+    color: #fff;
+}
+.account
+{
+padding: 10px;
+}
+.account:hover
+{
+    border: 2px solid white;
+}
+/* a{
+    margin-right: 10px;
+} */
+.oder
+{
+    color: #fff;
+    padding: 10px;
+}
+.oder:hover
+{
+    border: 2px solid #fff;
+}
+.cart img:hover
+{
+   border: 2px solid #fff; 
+}
+.hader
+{
+    height: 40px ;
+    width: 100%;
+    background-color: #232f3e;
+    display: flex;
+    justify-content: space-between;
+}
+.alls header ul 
+{
+    display: flex;
+   
+}
+.alls header ul a
+{
+    padding: 10px;
+    text-decoration: none;
+    list-style: none;
+    color: #fff;
+}
+.alls header ul a:hover
+{
+    border: 2px solid #fff;
+}
+.prime img:hover
+{
+   border: 2px solid white;
+}
+.image img 
+{
+    width: 100%;
+}
+.bgcolor
+{
+    background-color: #e3e6e6;
+    height: auto;
+    width: 100%;
+}
+.boxs
+{
+    height: 380PX;
+    width: 330PX;
+    background-color: #fff;
+    margin: 20px;
+
+}
+.link a
+{
+  text-decoration: none;
+  color: rgb(13, 211, 145);
+  margin: 15px 10px ;
+}
+.link
+{
+    margin-top: 20px;
+}
+.box a img
+{
+    max-width: 140px;
+    margin: 10px;
+}
+.boxs1
+{
+    display: flex;
+}
+.box a p
+{
+    margin-left: 10px;
+    color: rgb(136, 134, 134);
+    font-size: 13px;
+   
+}
+.box a
+{
+    text-decoration: none;
+}
+.mainbox
+{
+    display: flex;
+    padding: 10px;
+}
+.boxs .suger img
+{
+    width: 290px;
+    height: 230px;
+    margin: 20px;
+}
+.laptop
+{
+    height: 380PX;
+    width: 330PX;
+    margin: 20px;
+}
+.top{
+    width: 323px;
+    height: 150px;
+    background-color: #fff;
+    padding: 20px;
+}
+.top button
+{
+    width: 280px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: orange;
+}
+.laptop img 
+{
+    width: 300px;
+    height: 200px;
+    margin: 15px;
+}
+.deals
+{
+    height: 295px;
+    width: 1420px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.today a
+{
+    text-decoration: none;
+    color: rgb(13, 214, 147);
+    align-items: center;
+    margin: 5px 10px ;
+}
+.today
+{
+    display: flex;
+}
+
+.firstline a img
+{
+    width: 185px;
+    height: 150px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.first a 
+{
+height: 30px;
+width: 70px; 
+border: 1px solid rgb(174, 171, 171);
+background-color: red;
+color: #fff;
+text-decoration: none;
+margin-left: 40px;
+}
+.firstflex
+{
+    display: flex;
+
+}
+.deal
+{
+    height: 295px;
+    width: 1000px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.deal img
+{
+    height: 250px;
+    width: 950px;
+    margin:10px auto;
+}
+.sign a
+{
+    height: 20px;
+    width: 70px;
+    background-color: rgb(255, 136, 0);
+    text-decoration: none;
+    border: 1px solid gray;
+    padding: 3px 50px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.sign
+{
+    justify-content: center;
+    text-align: center;
+    margin: 10px;
+}
+.sign p {
+    margin: 10px ;
+    font-size: 12px;
+}
+.bgcolor1
+{
+    background-color: #37475a;
+    height: 50px ;
+    width: 100%;
+    margin-top: 10px;
+    color: #fff; 
+}
+.bgcolor1 p
+{
+    padding: 15px 700px;
+}
+.bgcolor2
+{
+    height: 530px;
+    width: 100%;
+    background-color: #232f3e;
+}
+.knownus
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 200px;
+}
+.kno {
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+}
+.known ul a
+{
+    color: #fff;
+    text-decoration: none;
+    margin: 5px 0px ;
+
+} 
+.known ul a:hover
+{
+    text-decoration: underline;
+}
+.known ul li 
+{
+    padding: 5px 0px ;
+}
+.known ul
+{
+    list-style: none;
+    padding: 10px 0px;
+}
+.bgimage img
+{
+    justify-content: center;
+    padding: 20px 600px;
+}
+.lists 
+{
+    display: flex;
+    margin-left: 330px;
+   
+}
+.lists li a
+{
+    padding: 0px 10px ;
+    color: #fff;
+    text-decoration: none;
+
+}
+.lists li
+{
+    list-style: none;
+}
+.lists li a:hover
+{
+    text-decoration: underline;
+}
+.bgcolor3
+{
+    height: 200px;
+    width: 100%;
+    background-color: #131921;
+}
+
+
+
+
